@@ -2744,14 +2744,14 @@
 		}
 		.wrapper.style2 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("file:///Users/Danni/Desktop/portfilio_blog/images/IMG_3687.jpg");
+			background-image: url("images/overlay.png"), url("http://dannibam.github.io/portfilio_blog/images/IMG_3687.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("file:///Users/Danni/Desktop/portfilio_blog/images/IMG_3687.jpg");
+			background-image: url("images/overlay.png"), url("http://dannibam.github.io/portfilio_blog/images/IMG_3687.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
@@ -3106,7 +3106,7 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("file:///Users/Danni/Desktop/portfilio_blog/images/IMG_3687.jpg");
+		background-image: url("images/overlay.png"), url("http://dannibam.github.io/portfilio_blog/images/IMG_3687.jpg");
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
